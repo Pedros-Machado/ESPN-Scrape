@@ -25,6 +25,8 @@ import os
 import warnings
 warnings.filterwarnings('ignore') # Ignorar qualquer aviso...
 
+# Warning - This is only a draft since the code is considering '20230432' as a valid date, which is not correct.
+
 sns.set_style("darkgrid")
 plt.rcParams.update({"font.size":15})
 
